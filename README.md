@@ -16,6 +16,14 @@ The following command will run the Docker image, mapping the react application p
 
 `docker run -p 8080:80 <image-name>:<version>`
 
+The Docker image has been pushed up to DockerHub and can be found here:
+
+https://hub.docker.com/repository/docker/jackbrowne00/react-docker/general
+
+The Docker image can be pulled from DockerHub using the following command:
+
+`docker pull jackbrowne00/react-docker:latest`
+
 ## Available Scripts
 
 In the project directory, you can run:
